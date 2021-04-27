@@ -10,7 +10,9 @@ When you run this script, it will ask you for a picture (can be the picture proc
 And it will jump into a fake "interaction shell"<br>
 You can input some command into it<br>
 Input help will result in<br>
-```add - Add songs to SoundTrack
+```
+add - Add songs to SoundTrack
 rem - Remove songs from SoundTrack
 save - Save changes and exit
-exit - Discard changes and exit```
+exit - Discard changes and exit
+```
