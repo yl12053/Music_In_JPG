@@ -17,7 +17,7 @@ save - Save changes and exit
 exit - Discard changes and exit
 ```
 ## 0x03 Notes
-The script for playing the files inside have not been implemented, but will be uploaded later<br>
+The script for extract the files inside have not been implemented, but will be uploaded later<br>
 You can also do it yourself! (As known as, DIY)<br>
 The zip archive is append just after the JPEG file, and<br>
 it is also correct to said that the archive is stored after the first FF D9 (b'\xff\xd9')<br>
